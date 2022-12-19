@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "MP1584")(type "KiCad")(uri "${KIPRJMOD}/MP1584.pretty")(options "")(descr ""))
+  (lib (name "Adafruit_TB6612")(type "KiCad")(uri "${KIPRJMOD}/Adafruit_TB6612.pretty")(options "")(descr ""))
+  (lib (name "v_logo")(type "KiCad")(uri "${KIPRJMOD}/v_logo.pretty")(options "")(descr ""))
+)

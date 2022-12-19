@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "MP1584")(type "KiCad")(uri "${KIPRJMOD}/MP1584_Buck_Converter.kicad_sym")(options "")(descr ""))
+  (lib (name "Adafruit")(type "KiCad")(uri "${KIPRJMOD}/Adafruit.kicad_sym")(options "")(descr ""))
+)

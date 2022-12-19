@@ -1,0 +1,30 @@
+Drill report for gauge_servo.kicad_pcb
+Created on Fri Dec 16 18:05:51 2022
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  In1.Cu                    in1
+    L3 :  In2.Cu                    in2
+    L4 :  B.Cu                      back
+
+
+Drill file 'gauge_servo.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.200mm  0.0079"  (12 holes)
+    T2  0.381mm  0.0150"  (9 holes)
+    T3  0.762mm  0.0300"  (26 holes)
+    T4  1.000mm  0.0394"  (38 holes)
+    T5  1.524mm  0.0600"  (8 holes)
+    T6  2.200mm  0.0866"  (2 holes)
+    T7  3.200mm  0.1260"  (2 holes)
+
+    Total plated holes count 97
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
